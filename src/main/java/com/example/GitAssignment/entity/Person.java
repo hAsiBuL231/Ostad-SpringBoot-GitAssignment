@@ -1,8 +1,6 @@
-package com.example.GitAssignment;
+package com.example.GitAssignment.entity;
 
 import jakarta.persistence.Column;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
 public class Person {
